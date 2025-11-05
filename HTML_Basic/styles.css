@@ -1,0 +1,24 @@
+header{
+    background-color: palevioletred;
+    text-align: center;
+}
+body{
+    background-image: url("Bread.jpg");
+    background-size: repeat;
+}
+a{
+    background-color: blueviolet;
+    text-decoration: none;
+}
+a#header-link{
+    background-color: azure;
+    text-decoration: none;
+    color: crimson;
+}
+a.body-link{
+    background-color: black;
+    color: white;
+}
+*.red-text{
+    color: red;
+}
